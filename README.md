@@ -6,7 +6,7 @@
 
 ## 🚀 Skills  
 - Frontend: React, Next.js, TailwindCSS  
-- Backend: Spring Boot, Node.js, FastAPI  
+- Backend: Spring Boot, Node.js 
 - Databases: MySQL, PostgreSQL, MongoDB  
 - Tools: Git, Docker, CI/CD  
 
