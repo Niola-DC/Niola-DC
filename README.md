@@ -1,14 +1,14 @@
-# Hi there 👋, I'm Eniola Fanegan  
+# Hey, I'm Eniola 👋
 
-🔹 Software Engineer | Full-Stack Developer  
-🔹 2 years of experience in frontend (React, Next.js) and backend (Spring Boot, Node.js).  
-🔹 Passionate about building scalable applications and solving real-world problems.  
+**Software Engineer building products that solve real-world problems.**
 
-## 🚀 Skills  
-- Frontend: React, Next.js, TailwindCSS  
-- Backend: Spring Boot, Node.js 
-- Databases: MySQL, PostgreSQL, MongoDB  
-- Tools: Git, Docker, CI/CD  
+💻 Full-Stack — React · Next.js · TypeScript · Java · Spring Boot · Node.js
+☁️ AWS · Docker · CI/CD
+🗄️ PostgreSQL · MySQL · MongoDB · Supabase
+
+🚀 Building in **FinTech, EdTech & AI**
+🛠️ Turning ideas into products, one commit at a time.
+
 
 ## 📫 Let's Connect  
 - GitHub: [Niola-DC](https://github.com/Niola-DC)  
